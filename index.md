@@ -6,8 +6,8 @@ these are some of the topics i would like to try:
 
 a hyperlink to github.com ![link to github](https://github.com/saitama-op) :smile:
 
--[] check boxs unmarked
--[x] check boxs marked
+  -[] check boxs unmarked
+  -[x] check boxs marked
 
 ordered list :+1:
 1. first item
